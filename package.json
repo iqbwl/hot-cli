@@ -1,6 +1,6 @@
 {
   "name": "hot-cli",
-  "version": "0.1.0",
+  "version": "1.1.1",
   "private": false,
   "scripts": {
     "dev": "next dev",
@@ -28,7 +28,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqbwl/hot-cli.git"
+    "url": "git+https://github.com/iqbwl/hot-cli"
   },
   "keywords": [
     "hot"
